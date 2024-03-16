@@ -1,6 +1,13 @@
 # Taller React JS  Wiki Rick and Morty
 Durante el taller utilizaremos las siguientes herramientas para construir nuestra Wiki de Rick And Morty, a continuación vas a encontrar todo lo necesario para poder realizar el proyecto:
 
+# Algunos cosas que tenemos que tener en cuente antes de comenzar
+- Instalar Vscode [Visual Studio Code](https://code.visualstudio.com/download) o tu editor de código preferido
+- Instalar [Node Js](https://nodejs.org/en/download/current) para realizar la creación del proyecto con React
+- Tener una cuenta en [GitHub](https://github.com/)
+- Conocimientos básicos de Javascript
+- Conocimientos básicos de HTML y CSS
+- Ganas de aprender!
 
 # Detalles del Taller
 - [RickandMorty API](https://rickandmortyapi.com/), La vamos a utilizar para la obtención de los personajes que vamos a mostrar en nuestro listado
