@@ -1,5 +1,12 @@
 # Taller React JS  Wiki Rick and Morty
 
+# Para realizar la instalación de este proyecto debes considerar lo siguiente
+- Clonar el repositorio
+- Abrir el repo en tu editor de código
+- Ejecutar `npm install` para instalar los paquetes de node
+- `npm start` para inicial el proyecto en localhost
+
+
 Mentor de esta edición: [Esteban Ruiz Saldivia]
 
 # Objetivo del Taller
