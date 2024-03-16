@@ -1,5 +1,13 @@
 # Taller React JS  Wiki Rick and Morty
-Durante el taller utilizaremos las siguientes herramientas para construir nuestra Wiki de Rick And Morty, a continuación vas a encontrar todo lo necesario para poder realizar el proyecto:
+
+Mentor de esta edición: [Esteban Ruiz Saldivia]
+
+# Objetivo del Taller
+Dar a conocer tecnologías Front end como lo es React en esta ocación para todo tipo de publico, ya sea desde personas sin conocimientos hasta profesionales con experiencia en el rubro
+
+# Descripción del Taller
+
+Vamos a realizar un listado de cards la cual tendrá una imagen y sus respectivas descripciones algo como cuando visualizamos un producto en un E-comerce, las cuales vamos a llenar de información gracias a la API de Rick and Morty, a la cual nos conectaremos mediante Fetch API, tambien veremos algo de CSS Inline y agrupado en un archivo CSS (distintas maneras de dar estilo a tus componentes)
 
 # Algunos cosas que tenemos que tener en cuente antes de comenzar
 - Instalar Vscode [Visual Studio Code](https://code.visualstudio.com/download) o tu editor de código preferido
@@ -13,3 +21,5 @@ Durante el taller utilizaremos las siguientes herramientas para construir nuestr
 - [RickandMorty API](https://rickandmortyapi.com/), La vamos a utilizar para la obtención de los personajes que vamos a mostrar en nuestro listado
 - En esta instancia utilizaremos Fetch API para hacer las peticiones a nuestro Back end, que nos va a proporcionar toda la información necesaria que utilizaremos en nuestro Front end -> [fetch](https://www.escuelafrontend.com/data-fetching-con-react))
 - Vamos a utilizar algunos hooks bastante utilizados en el día a día con React por lo cual te dejo la documentación oficial de React en donde puedes encontrar la explicación de ellos [aquí](https://react.dev/learn#using-hooks)
+
+- Espero sea de tu utilidad este proyecto y pueda servirte de impulso para tus nuevas ideas a futuro con React!
