@@ -9,7 +9,7 @@ Dar a conocer tecnologías Front end como lo es React en esta ocación para todo
 
 Vamos a realizar un listado de cards la cual tendrá una imagen y sus respectivas descripciones algo como cuando visualizamos un producto en un E-comerce, las cuales vamos a llenar de información gracias a la API de Rick and Morty, a la cual nos conectaremos mediante Fetch API, tambien veremos algo de CSS Inline y agrupado en un archivo CSS (distintas maneras de dar estilo a tus componentes)
 
-# Algunas cosas que tenemos que tener en cuente antes de comenzar
+# Algunas cosas que tenemos que tener en cuenta antes de comenzar
 - Instalar Vscode [Visual Studio Code](https://code.visualstudio.com/download) o tu editor de código preferido
 - Instalar [Node Js](https://nodejs.org/en/download/current) para realizar la creación del proyecto con React
 - Tener una cuenta en [GitHub](https://github.com/)
