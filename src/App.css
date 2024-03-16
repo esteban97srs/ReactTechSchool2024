@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  margin: 10px;
+  border: 3px solid black;
+  border-radius: 25px;
+  max-width: 300px;
+  min-height: 550px;
+  min-width: 300px;
+  max-height: 550px;
+  box-shadow: 0px 0px 15px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap:  wrap;
+  justify-content: center;
+  row-gap: 30px;
+  column-gap: 20px;
+}
+
+.hover-effect {
+  transform: scale(var(--escala, 1));
+  transition: transform 0.25s;
+}
+
+.hover-effect:hover{
+  --escala: 1.1;
+  cursor:pointer;
+}
