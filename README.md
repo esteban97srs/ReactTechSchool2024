@@ -4,7 +4,7 @@
 - Clonar el repositorio
 - Abrir el repo en tu editor de código
 - Ejecutar `npm install` para instalar los paquetes de node
-- `npm start` para inicial el proyecto en localhost
+- `npm start` para iniciar el proyecto en tu máquina local
 
 
 Mentor de esta edición: [Esteban Ruiz Saldivia]
