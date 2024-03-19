@@ -9,7 +9,7 @@ Mentor de esta edición: [Esteban Ruiz Saldivia]
 - `npm start` para iniciar el proyecto en tu máquina local
 
 # Objetivo del Taller
-Dar a conocer tecnologías Front end como lo es React en esta ocación para todo tipo de publico, ya sea desde personas sin conocimientos hasta profesionales con experiencia en el rubro
+Dar a conocer tecnologías Frontend como lo es React en esta ocación para todo tipo de público, ya sea desde personas sin conocimientos hasta profesionales con experiencia en el rubro
 
 # Descripción del Taller
 
@@ -26,7 +26,7 @@ Vamos a realizar un listado de cards la cual tendrá una imagen y sus respectiva
 
 # Detalles del Taller
 - [RickandMorty API](https://rickandmortyapi.com/), La vamos a utilizar para la obtención de los personajes que vamos a mostrar en nuestro listado
-- En esta instancia utilizaremos Fetch API para hacer las peticiones a nuestro Back end, que nos va a proporcionar toda la información necesaria que utilizaremos en nuestro Front end -> [fetch](https://www.escuelafrontend.com/data-fetching-con-react))
+- En esta instancia utilizaremos Fetch API para hacer las peticiones a nuestro Back end, que nos va a proporcionar toda la información necesaria que utilizaremos en nuestro Frontend -> [fetch](https://www.escuelafrontend.com/data-fetching-con-react))
 - Vamos a utilizar algunos hooks bastante utilizados en el día a día con React por lo cual te dejo la documentación oficial de React en donde puedes encontrar la explicación de ellos [aquí](https://react.dev/learn#using-hooks)
 
 - Espero sea de tu utilidad este proyecto y pueda servirte de impulso para tus nuevas ideas a futuro con React!
